@@ -6,13 +6,6 @@
     {
       "permission":
       {
-        "actor":"kainosblkpro","permission":"active"
-      },
-      "weight":1
-    },
-    {
-      "permission":
-      {
         "actor":"blindblocart","permission":"active"
       },
       "weight":1
@@ -27,6 +20,13 @@
     {
       "permission":
       {
+        "actor":"eosbarcelona","permission":"active"
+      },
+      "weight":1
+    },
+    {
+      "permission":
+      {
         "actor":"eosmetaliobp","permission":"active"
       },
       "weight":1
@@ -34,7 +34,7 @@
     {
       "permission":
       {
-        "actor":"eosbarcelona","permission":"active"
+        "actor":"kainosblkpro","permission":"active"
       },
       "weight":1
     },
