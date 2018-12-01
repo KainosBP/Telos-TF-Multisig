@@ -1,0 +1,2 @@
+set account permission tf active tf.json -p tf@owner
+set account permission tf owner tf.json -p tf@owner
